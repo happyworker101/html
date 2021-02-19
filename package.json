@@ -1,0 +1,19 @@
+{
+  "name": "html",
+  "version": "0.0.1",
+  "description": "an easy DOM utility library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/happyworker101/html.git"
+  },
+  "author": "zhangyafan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/happyworker101/html/issues"
+  },
+  "homepage": "https://github.com/happyworker101/html#readme",
+}
